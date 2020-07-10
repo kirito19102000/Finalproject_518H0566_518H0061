@@ -1,1 +1,2 @@
-
+first add db_banhang.sql to phpmyadmin
+then copy this link http://localhost/book/public/home
